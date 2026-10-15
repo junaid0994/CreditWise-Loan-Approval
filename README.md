@@ -65,4 +65,4 @@ jupyter notebook Credit_Wise.ipynb
 
 ## Author
 
-**<Your Name>** – [GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-handle>)
+**Junaid Ashraf** – [GitHub](https://github.com/junaid0994) · [LinkedIn](https://www.linkedin.com/in/junaid-ashraf-53123b37a/)
